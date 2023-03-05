@@ -40,3 +40,346 @@ span {
     color: #c85208;
     font-weight: bold;
 }
+/* header and logo */
+
+header {
+    background-color: #ffffff;
+    height: 80px;
+    width: 100%;
+    margin-top: -80px;
+    position: fixed;
+    z-index: 5;
+}
+
+#logo {
+    float: left;
+    margin-left: 40px;
+    height: auto;
+    width: 5%;
+}
+
+/* navigation links */
+
+#menu {
+    margin-right: 20px;
+}
+
+#menu li {
+    font-size: 1.2vw;
+    float: right;
+    list-style-type: none;
+    margin-right: 40px;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #af8e38;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #af8e38;
+}
+
+.active {
+    border-bottom: 1px solid #af8e38;
+}
+
+/* hero image section */
+
+#hero-image-section {
+    height: auto;
+    width: 100%;
+    margin-top: 80px;
+    overflow: hidden;
+    position: relative;
+}
+
+#hero-image {
+    height: auto;
+    width: 100vw;
+    position: relative;
+}
+
+#hero-image-text {
+    text-transform: uppercase;
+    text-align: center;
+    width: 100%;
+    top: 10px;
+    position: absolute;
+}
+
+#hero-image-text h1 {
+    font-size: 3.4vw;
+    color: #D1AA91;
+}
+
+#hero-image-text h3 {
+    font-size: 1vw;
+    margin-top: auto;
+    color: #ffffff;
+}
+
+/* About Us */
+
+#about-us {
+    width: 100%;
+    height: auto;
+}
+
+.our-mission {
+    width: 60%;
+    height: auto;
+    text-align: left;
+    margin: 0 auto;
+    padding-top: 1%;
+    padding-bottom: 3%;
+}
+
+#about-us h2 {
+    text-transform: uppercase;
+    font-size: 1.8vw;
+    color: #D1AA91;
+    text-align: center;
+}
+
+#about-us p {
+    font-size: 1.2vw;
+    color: #3a3a3a;
+    padding: 0 15%
+}
+/* footer */
+
+footer {
+    bottom: 0;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    background-color: #D1AA91;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks>li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    padding: 60px;
+    color: white;
+}
+
+/* classes page */
+
+#classes-hero-image-section {
+    margin-top: 80px;
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#classes-hero-image {
+    max-width: 100%;
+    height: auto;
+    position: relative;
+}
+/* contact page */
+
+#contact-hero-image-section {
+    margin-top: 80px;
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#contact-hero-image {
+    max-width: 100%;
+    height: auto;
+    position: relative;
+}
+
+/* contact form section */
+
+#contact-form-section {
+    width: 100%;
+    height: auto;
+}
+
+.contact {
+    width: 60%;
+    height: auto;
+    text-align: left;
+    margin: 0 auto;
+    padding-top: 1%;
+    padding-bottom: 3%;
+}
+
+#contact-form-section h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 3.4vw;
+    color: #D1AA91;
+}
+
+#contact-form-section h2 {
+    text-transform: uppercase;
+    font-size: 1.8vw;
+    color: #D1AA91;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#contact-form-div {
+    width: 100%;
+}
+
+#contact-form {
+    background-color: #F7E4E6;
+    text-align: left;
+    padding: 10px 50px 20px 50px;
+    width: 30%;
+    margin: 0 auto;
+}
+
+#contact-form h3 {
+    color: #D1AA91;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#contact-form h2 {
+    margin-bottom: 10px;
+}
+
+.text-input {
+    background: white;
+    color: #3a3a3a;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border-radius: 2px;
+}
+
+.text-input:hover {
+    border: 2px solid rgb(148, 170, 211);
+}
+
+.send-button {
+    color: #ffffff;
+    text-align: center;
+    font-size: 100%;
+    background-color: rgb(148, 170, 211);
+    border-radius: 2px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.send-button:hover {
+    color: rgb(148, 170, 211);
+    background-color: #ffffff;
+}
+
+.radio {
+    position: relative;
+    vertical-align: middle;
+    margin-right: 20px;
+}
+
+/* contact details section */
+
+#details-div {
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+    background-color: #F7E4E6;
+    padding-top: 20px;
+}
+
+#contact-wrapper {
+    background-color: #F7E4E6;
+    text-align: center;
+    padding: 30px 50px 30px 50px;
+}
+
+#contact-div {
+    width: 45%;
+}
+
+#contact-div li {
+    list-style: none;
+}
+
+#contact-div ul {
+    width: 80%;
+    text-align: center;
+}
+
+.contact-details h3 {
+    color: #D1AA91;
+    text-decoration: underline;
+    margin-bottom: 3px;
+    margin-top: 10px;
+}
+
+.contact-details p {
+    font-size: 80%;
+}
+/* thank you page */
+
+#thankyou-hero-image-section {
+    margin-top: 80px;
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#thankyou-hero-image {
+    max-width: 100%;
+    height: auto;
+    position: relative;
+}
+
+#thankyou-section {
+    width: 100%;
+    height: 280px;
+    margin-top: 90px;
+}
+
+.thankyou {
+    width: 60%;
+    height: auto;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 1%;
+    padding-bottom: 3%;
+}
+
+#thankyou-section h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 3.4vw;
+    color: #D1AA91;
+}
+
+#thankyou-section h2 {
+    text-transform: uppercase;
+    font-size: 1.8vw;
+    color: #D1AA91;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#thankyou-section p {
+    font-size: 1.2vw;
+    color: #3a3a3a;
+    padding: 0 15%
+}
