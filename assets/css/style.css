@@ -180,6 +180,13 @@ footer {
 
 /* courses page */
 
+#box {
+    background-color: #FFF8DC;
+    width: 1250px;
+    padding: 10px;
+   
+}
+
 #courses {
     width: 100%;
     height: auto;
@@ -187,7 +194,7 @@ footer {
 .courses {
     width: 60%;
     height: auto;
-    text-align: left;
+    text-align: center;
     margin: 0 auto;
     padding-top: 1%;
     padding-bottom: 3%;
@@ -292,7 +299,7 @@ footer {
 }
 
 #contact-hero-image {
-    max-width: 50%;
+    max-width: 100%;
     height: auto;
 }
 
