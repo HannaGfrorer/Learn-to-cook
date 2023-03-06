@@ -54,9 +54,9 @@ header {
 
 #logo {
     float: left;
-    margin-left: 40px;
+    margin-left: 20px;
     height: auto;
-    width: 5%;
+    width: 10%;
 }
 
 /* navigation links */
@@ -176,8 +176,58 @@ footer {
     color: white;
 }
 
-/* corses page */
+/* courses page */
 
+#courses {
+    width: 100%;
+    height: auto;
+}
+.courses {
+    width: 60%;
+    height: auto;
+    text-align: left;
+    margin: 0 auto;
+    padding-top: 1%;
+    padding-bottom: 3%;
+}
+
+#italian h2 {
+    text-transform: uppercase;
+    font-size: 1.8vw;
+    color: #D1AA91;
+    text-align: center;
+}
+#asian h2 {
+    text-transform: uppercase;
+    font-size: 1.8vw;
+    color: #D1AA91;
+    text-align: center;
+}
+#italian h2 {
+    text-transform: uppercase;
+    font-size: 1.8vw;
+    color: #D1AA91;
+    text-align: center;
+}
+#italian h2 {
+    text-transform: uppercase;
+    font-size: 1.8vw;
+    color: #D1AA91;
+    text-align: center;
+}
+
+#courses p {
+    font-size: 1.2vw;
+    color: #3a3a3a;
+    padding: 0 15%
+}
+
+.logo {
+    float: left;
+    margin-left: 20px;
+    height: auto;
+    width: auto;
+}
 #classes-hero-image-section {
     margin-top: 80px;
     height: auto;
@@ -185,11 +235,49 @@ footer {
     overflow: hidden;
     position: relative;
 }
+h3, p {
+    font-weight: 500;
+    font-size: 100%;
+    letter-spacing: 2px;
 
-#classes-hero-image {
-    max-width: 100%;
+}
+#pizza-images {
+    max-width: 15%;
     height: auto;
     position: relative;
+}
+#pasta-images {
+    max-width: 15%;
+    height: auto;
+    position: relative;
+}
+#sushi-images {
+    max-width: 15%;
+    height: auto;
+    position: relative;
+}
+#dumplings-images {
+    max-width: 15%;
+    height: auto;
+    position: relative;
+}
+#meatballs-images {
+    max-width: 10%;
+    height: auto;
+    position: relative;
+}
+#ovensausegs-images {
+    max-width: 15%;
+    height: auto;
+    position: relative;
+}
+
+footer {
+    bottom: 0;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    background-color: #8e91f766;
 }
 /* contact page */
 
