@@ -161,7 +161,7 @@ footer {
     width: 100%;
     height: 150px;
     text-align: center;
-    background-color: #D1AA91;
+    background-color:rgb(255, 248, 220);
 }
 
 .social-networks {
@@ -279,7 +279,7 @@ footer {
     width: 100%;
     height: 150px;
     text-align: center;
-    background-color: #8e91f766;
+    background-color: #FFF8DC;
 }
 /* contact page */
 
@@ -317,13 +317,13 @@ footer {
     text-transform: uppercase;
     text-align: center;
     font-size: 3.4vw;
-    color: #ac9cde;
+    color: #FFF8DC;
 }
 
 #contact-form-section h2 {
     text-transform: uppercase;
     font-size: 1.8vw;
-    color:#ac9cde ;
+    color: #FFF8DC;
     text-align: center;
     margin-top: 10px;
 }
@@ -341,7 +341,7 @@ footer {
 }
 
 #contact-form h3 {
-    color: #ac9cde;
+    color: #FFF8DC;
     text-align: center;
     margin-bottom: 20px;
 }
@@ -360,21 +360,21 @@ footer {
 }
 
 .text-input:hover {
-    border: 2px solid rgb(148, 170, 211);
+    border: 2px solid #FFF8DC;
 }
 
 .send-button {
     color: #580e0e;
     text-align: center;
     font-size: 100%;
-    background-color: rgb(148, 170, 211);
+    background-color: #FFF8DC;
     border-radius: 2px;
     margin-top: 20px;
     padding: 10px;
 }
 
 .send-button:hover {
-    color: rgb(148, 170, 211);
+    color: #FFF8DC;
     background-color: #ffffff;
 }
 
