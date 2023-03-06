@@ -38,14 +38,14 @@ p {
 }
 
 span {
-    color: #FFF8DC;
+    color: #CCD5AE;
     font-weight: bold;
 }
 
 /* header and logo */
 
 header {
-    background-color: #FFF8DC;
+    background-color: #FAEDCD;
     height: 80px;
     width: 100%;
     margin-top: -80px;
@@ -161,7 +161,7 @@ footer {
     width: 100%;
     height: 150px;
     text-align: center;
-    background-color: #FFF8DC;
+    background-color: #FAEDCD;
 }
 
 .social-networks {
