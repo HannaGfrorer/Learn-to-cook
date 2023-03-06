@@ -317,13 +317,14 @@ footer {
     text-transform: uppercase;
     text-align: center;
     font-size: 3.4vw;
-    color: #FFF8DC;
+    color: #3a3a3a;
+    
 }
 
 #contact-form-section h2 {
     text-transform: uppercase;
     font-size: 1.8vw;
-    color: #FFF8DC;
+    color: #3a3a3a;
     text-align: center;
     margin-top: 10px;
 }
@@ -333,7 +334,7 @@ footer {
 }
 
 #contact-form {
-    background-color: #F7E4E6;
+    background-color: #FFFACD;
     text-align: left;
     padding: 10px 50px 20px 50px;
     width: 30%;
@@ -341,7 +342,7 @@ footer {
 }
 
 #contact-form h3 {
-    color: #FFF8DC;
+    color: #666560;
     text-align: center;
     margin-bottom: 20px;
 }
@@ -360,21 +361,21 @@ footer {
 }
 
 .text-input:hover {
-    border: 2px solid #FFF8DC;
+    border: 2px solid #98894c;
 }
 
 .send-button {
     color: #580e0e;
     text-align: center;
     font-size: 100%;
-    background-color: #FFF8DC;
+    background-color: #e59e3a;
     border-radius: 2px;
     margin-top: 20px;
     padding: 10px;
 }
 
 .send-button:hover {
-    color: #FFF8DC;
+    color: #D2691E;
     background-color: #ffffff;
 }
 
@@ -390,12 +391,12 @@ footer {
     width: 100%;
     text-align: center;
     margin-top: 50px;
-    background-color: #F7E4E6;
+    background-color:#FAFAD2;
     padding-top: 20px;
 }
 
 #contact-wrapper {
-    background-color: #F7E4E6;
+    background-color: #FAFAD2;
     text-align: center;
     padding: 30px 50px 30px 50px;
 }
@@ -414,7 +415,7 @@ footer {
 }
 
 .contact-details h3 {
-    color: #D1AA91;
+    color: #11100f;
     text-decoration: underline;
     margin-bottom: 3px;
     margin-top: 10px;
@@ -458,13 +459,13 @@ footer {
     text-transform: uppercase;
     text-align: center;
     font-size: 3.4vw;
-    color: #D1AA91;
+    color: #474646;
 }
 
 #thankyou-section h2 {
     text-transform: uppercase;
     font-size: 1.8vw;
-    color: #D1AA91;
+    color: #474646;
     text-align: center;
     margin-top: 10px;
 }
