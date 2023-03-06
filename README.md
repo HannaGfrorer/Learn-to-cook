@@ -81,7 +81,7 @@ My goal was to create a website that could bring the joy of cooking to users and
 Learn to Cook Online is a three-page website divided into sections. The menu is fixed at the top to ensure easy navigation between pages.
 
 Colors
-The color palette was created with Coolor
+The color palette was created with Coolor #FFF8DC, D2691E, #ffffff, #580e0e
 
 Color Palette
 
