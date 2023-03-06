@@ -1,68 +1,83 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="cooking course online">
-        <meta name="keywords" content="learn to cook online">
-        
-        
-        <link rel="stylesheet" href="assets/css/style.css">
-    <title>Document</title>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="cooking course online">
+    <meta name="keywords" content="learn to cook online">
+
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <title>Learn how to cook online</title>
 </head>
+
 <body>
     <header>
-        <a href="index.html">
-            <h1 id="logo">cooking courses</h1>
-        </a>
         <nav>
             <ul id="menu">
                 <li>
-                    <a href="signup.html">Sign Up</a>
+                    <a href="contact.html" class="active">Sign up</a>
                 </li>
                 <li>
-                    <a href="cookingcourses.html"class="active">cookingcourses</a>
+                    <a href="classes.html">cookingcourses</a>
                 </li>
                 <li>
                     <a href="index.html">Home</a>
                 </li>
             </ul>
         </nav>
-        <section class="form-section">
-            
-            <form id="contact-form" class="page-description" action="thankyoupage.html">
-            <h2>Let's get you signed up!</h2>
-            <label for="fname">First Name</label>
-            <input type="text" id="fname" name="first_name" required>
-            <label for="lname">Last Name</label>
-            <input type="text" id="lname" name="last_name" required>
-            <label for="email">Email Address</label>
-            <input type="email" id="email" name="email_address" required>
-            
-            <label for="italian">Italian</label>
-            <input type="radio" name="italian_food" id="road" value="italian">
-            <label for="asian">Asian</label>
-            <input type="radio" name="asian_food" id="trail" value="asian">
-            <label for="swedish">Swedish</label>
-            <input type="radio" name="swedish_food" id="both" value="swedish">
-            <input type="submit" value="Let's cook!">
-            </form>
-        </section>
-        </header>
+    </header>
 
     <!-- contact hero image section -->
 
     <section id="contact-hero-image-section">
         <div>
-            <img id="contact-hero-image" src="images/onion.webp" alt="onion">
+            <img id="contact-hero-image" src="images/onion.webp" alt="image of onion">
         </div>
     </section>
 
     <!-- get in contact section -->
 
+    <section id="contact-form-section">
+        <div class="contact">
+            <h1>contact us</h1>
+            <h2>fill out the form, call us or just pass by</h2>
+        </div>
+
+        <div id="contact-form-div">
+
+            <form id="contact-form" action="thankyoupage.html" class="signup-form" action="thankyoupage.html">
+                <h2>Contact Form</h2>
+
+                <label for="fname">First Name</label>
+                <input class="text-input" id="fname" name="first_name" type="text" required>
+
+                <label for="lname">Last Name</label>
+                <input class="text-input" id="lname" name="last_name" type="text" required>
+
+                <label for="email">Email Address</label>
+                <input class="text-input" type="email" id="email" name="email_address" required>
+
+                <h3>Tell us what you are interested in cooking with us</h3>
+
+                <label for="asian" class="label-checkbox">Asian</label>
+                <input type="radio" class="radio" id="asian" name="interest" value="asian" required>
+
+                <label for="swedish" class="label-checkbox">Swedish</label>
+                <input type="radio" class="radio" id="swedish" name="interest" value="swedish" required>
+
+                <label for="italian" class="label-checkbox">Italian</label>
+                <input type="radio" class="radio" id="italian" name="interest" value="italian" required>
+                <br>
+                <input class="send-button" type="submit" value="Send Request" aria-label="Button that sends the form">
+            </form>
+        </div>
+
         <div id="details-div">
             <h2>Contact Details</h2>
         </div>
+
         <div id="contact-wrapper">            
             <div id="contact-div" class="contact-details">
                 <ul id="contact-list">
@@ -70,6 +85,7 @@
                         <h3>Phone</h3>
                         <p>076 949 64 92</p>
                     </li>
+
                     <li id="email">
                         <h3>Email</h3>
                         <p>cookingcourses@gmail.com</p>
@@ -78,5 +94,24 @@
             </div>
         </div>
     </section>
+
+    <footer>
+        <ul class="social-networks">
+            <li>
+                <a href="https://facebook.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Bacebook page (opens in a new tab)"><i class="fab fa-facebook"></i></a>
+            </li>
+
+            <li>
+                <a href="https://instagram.com" target="_blank" rel="noopener" aria-label="Visit our Instagram page"><i
+                        class="fab fa-instagram"></i></a>
+            </li>
+        </ul>
+    </footer>
+
+    <!-- font awesome script -->
+
+    <script src="https://kit.fontawesome.com/b264f7eebe.js" crossorigin="anonymous"></script>
 </body>
+
 </html>
