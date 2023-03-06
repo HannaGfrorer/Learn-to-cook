@@ -134,43 +134,36 @@ The purpose of the Footer is to provide easy access for the user to the differen
 Footer
 
 Classes Hero Image Section
-The section contains an image with students practicing yoga and metitation, in order to bring the user the sensation of well-being, health and mindfulness.
+The section contains images on different foods.
 Classes Hero Image Section
 
-About Our Classes Section
-The purpose of this section is to give the users a general idea of the type of classes that the Studio offers.
-Here in this section users can also inform themselves about the structure os the in-group classes and it's duration.
-About our Classes Section
+About Our courses Section
+The purpose of this section is to give the users a general idea of the type of courses that the website offers.
+Here in this section users can also get information about diferent foods to cook in courses.
 
-Classes Time Table Section
-The section contains two tables, one for the Yoga Classes hours and another one for the Meditation Groups hours.
-Users can program themselves by knowing, in advance, all the optins the Studio has to offers them.
-Users can accesss the contact form from the link created on the paragrapha bellow the tables where it says Contact Page.
-Classes Time Table Section
 
 Contact Hero Image Section
-This section was built to give the user a welcoming feeling and to encourage them to get in contact with the Studio.
+This section was built to give the user a welcoming feeling and to encourage them to get in contact with the website.
 Contact Hero Image Section
 
 Contact Form Section
-The Contact Form Section has the purpose to let users get in contact with the Studio in a confortable, esay and fast way.
+The Contact Form Section has the purpose to let users get in contact with the website in a confortable, esay and fast way.
 The Form has three input fields where users must give their first name, last name and email address.
-Users must also chose, at least one of the options, telling what they are interested in practicing in the Studio.
+Users must also chose, at least one of the options, telling them which course they are interested in.
 After sending the request wiht the correct information required in the fields, users will be redirected to a Thank you page.
 Contact Form Section
 
 Contact Details Section
-The Contact Details Section contains two boxes with all the contact information of Magnolia Tree.
-The box on the left contains the telephone number, email and the address of the Studio. On the box on the right, users can find a map to better visualize the exact Studio's location.
+The Contact Details Section contains one box with all the contact information of Learn to cook online.
+The box contains the telephone number and email.
 Contact Details Section
 
 Thankyoupage Hero Image Section
-The purpose of this section is to make users feel thanked for getting in contact with the Studio.
-The Namaste gesture expresses gratitude and that's why it was chosen for this hero image banner.
+The purpose of this section is to make users feel thanked for getting in contact with the website.
 Thankyoupage Hero Image Section
 
 Thankyou Section
-This section is where the user receives the confirmation that the form has been sent correctly and that it has been received by the Studio.
+This section is where the user receives the confirmation that the form has been sent correctly and that it has been received by the websit.
 Thankyou Section
 
 Back to top
@@ -182,22 +175,6 @@ Testing
 Test has been conducted using Google Chrome, Mozilla Firefox and Safari. Testing different devices and screen resolutions has been conducted using Google DevTools.
 
 Listed is the main issues discovered.
-
-Home page Hero-Image was not staying on the right place after addding the Hero-Image Text.
-Solution: Removed it as a background-image from the style.css and moved it to index.html.
-First colum of the Meditation Group Table shrinked after inserted the data.
-Solution: Adjusted the data inserted.
-Hero-Image were not taking 100% of the screen's width.
-Solution: Resized the images to a larger size.
-When tested in Lighthouse the website received a low score on performance, 73. The reason for thas was that the images size were too big.
-Solution: Resized all the images and score increased to 99.
-Poor performance on smaller screens. About Us and 2022 Events sections did not place them selfs properly.
-Solution: Solved this by using media queries and now the elements are displayed as they should.
-Menu not properly aligned with header on small screens and it gets cropped and divided.
-Solution: Added new values in the existing media queries.
-Menu still gets cropped on screens with resolutions below 320px. It looks good using Google DevTools but not on a physical device
-Solution: Solved 20220325 - Removed from Unfixed bugs. Changed View Port Width on fonts in menu.
-Apart from these issues there have been several minor issues. The majority of these has been due to miss spelled tags, attributes and other mistakes.
 
 The css style could not be changed on the home page.
 Solution: The css file was not included in the assets file. Added css file to assets and then it worked.
