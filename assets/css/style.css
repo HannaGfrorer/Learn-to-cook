@@ -481,3 +481,363 @@ footer {
     color: #3a3a3a;
     padding: 0 15%
 }
+
+/* media queries */
+
+@media screen and (min-width: 480px) and (max-width: 920px) {
+
+    #menu li {
+        font-size: 2vw;
+    }
+
+    #menu {
+        line-height: 60px;
+    }
+
+    header {
+
+        height: 60px;
+        margin-top: -60px;
+        position: absolute;
+    }
+
+    #logo {
+        position: absolute;
+        bottom: 0;
+        height: 100%;
+        width: auto;
+    }
+
+    #about-us h2 {
+        font-size: 2vw;
+    }
+
+    #about-us p {
+        font-size: 1.5vw;
+    }
+
+    #about-section {
+        width: 100vw;
+    }
+
+    #about-section-content {
+        padding: 0;
+    }
+
+    .about-image {
+        width: 200px;
+    }
+
+    .about {
+        vertical-align: middle;
+        position: relative
+    }
+
+    #left-about {
+        width: 100%;
+    }
+
+    #right-about {
+        width: 100%;
+        padding-top: 30px;
+    }
+
+
+    /* contact page */
+
+    #contact-form-section h1 {        
+        font-size: 5vw;        
+    }
+    
+    #contact-form-section h2 {        
+        font-size: 3.4vw;        
+    }
+    
+    #contact-form-div {
+        width: 100%;
+    }
+    
+    #contact-form {        
+        width: 50%;        
+    }
+
+    #details-div {
+        width: 100%;
+        text-align: center;
+        margin-top: 50px;
+        background-color: #F7E4E6;
+        padding-top: 20px;
+    }
+
+    #contact-wrapper {        
+        text-align: center;
+        padding: 30px 30px 30px 30px;
+        width: 100%;        
+    }
+
+    #contact-div ul {
+        width: 60%;
+        text-align: left;
+    }
+
+    .contact-details p {
+        font-size: 60%;
+    }
+
+    #thankyou-section {
+        width: 100vw;
+        height: 570px;
+        margin-top: 150px;
+    }
+
+    #thankyou-section h1 {
+        text-transform: uppercase;
+        text-align: center;
+        font-size: 6vw;
+        color: #D1AA91;
+    }
+    
+    #thankyou-section h2 {
+        text-transform: uppercase;
+        font-size: 3.4vw;
+        color: #D1AA91;
+        text-align: center;
+        margin-top: 10px;
+    }
+    
+    #thankyou-section p {
+        font-size: 3vw;
+        color: #3a3a3a;
+        padding: 0 15%
+    }
+
+}
+
+@media screen and (min-width: 0px) and (max-width: 480px) {
+
+    #menu li {
+        font-size: 2.8vw;
+        margin-right: 30px;
+    }
+
+    #menu {
+        line-height: 60px;
+    }
+
+    header {
+        height: 60px;
+        margin-top: -60px;
+        position: absolute;
+    }
+
+    #logo {
+        position: absolute;
+        bottom: 0;
+        height: 100%;
+        width: auto;
+        margin-left: 30px;
+    }
+
+    #hero-image-text h1 {
+        font-size: 6vw;
+    }
+
+    #hero-image-text h3 {
+        font-size: 2vw;
+        font-weight: bold;
+    }
+
+    #about-us h2 {
+        font-size: 3.6vw;
+    }
+
+    #about-us p {
+        font-size: 3vw;
+    }
+
+
+    #about-section {
+        width: 100vw;
+    }
+
+    .about-image {
+        width: 200px;
+    }
+
+    .about {
+        vertical-align: middle;
+        position: relative
+    }
+
+    #left-about {
+        width: 100%;
+    }
+
+    #right-about {
+        width: 100%;
+        padding-top: 30px;
+    }
+
+    
+
+    footer {
+        height: 110px;
+    }
+
+    .social-networks i {
+        font-size: 140%;
+        padding: 40px 30px;
+    }
+
+    /* courses page */
+
+    
+
+    .courses {
+        padding-bottom: 10px;
+        width: 100%;
+        margin: 0;        
+    }
+
+    table {
+        font-size: 2vw;
+    }
+
+    
+
+    /* contact page */
+
+    #contact-form-section h1 {        
+        font-size: 5vw;        
+    }
+    
+    #contact-form-section h2 {        
+        font-size: 3.4vw;
+    }
+    
+    #contact-form {
+        text-align: left;
+        padding: 10px 50px 20px 50px;
+        width: 55%;
+        margin: 0 auto;
+    }
+    
+    #contact-form h3 {
+        font-size: 3vw;       
+    }
+    
+    #contact-form h2 {
+        margin-bottom: 10px;
+        font-size: 3.8vw;
+    }
+    
+    .label-checkbox {
+        font-size: 3.6vw;
+    }
+
+    .text-input {        
+        background: white;
+        color: #3a3a3a;
+        width: 100%;
+        height: 25px;
+        margin: 5px 0 20px 0;
+        border-radius: 2px;
+    }
+    
+    .text-input:hover {
+        border: 2px solid rgb(148, 170, 211);
+    }
+    
+    .send-button {        
+        color: #ffffff;
+        text-align: center;               
+        font-size: 100%;
+        background-color: rgb(148, 170, 211);
+        border-radius: 2px;
+        margin-top: 20px;
+        padding: 10px;
+    }
+    
+    .send-button:hover {
+        color: rgb(148, 170, 211);
+        background-color: #ffffff;
+    }
+    
+    .radio {
+        position: relative;
+        vertical-align: middle;
+        margin-right: 20px;
+    }
+
+    #contact-div ul {
+        width: 100%;
+        text-align: center;
+    }
+
+    .contact-details p {
+        font-size: 3vw;
+    }
+
+    .contact-details {
+        display: block;
+        align-content: center;               
+    }
+
+    #details-div {
+        width: 100%;
+        text-align: center;
+        margin-top: 50px;        
+        padding-top: 20px;
+    }
+
+    #details-div h2 {
+        font-size: 3.8vw;
+    }
+    
+    #contact-wrapper {        
+        text-align: center;
+        padding: 10px 30px 30px 30px;
+    }
+    
+    #contact-div {
+        width: 100%;
+        text-align: center;
+    }
+    
+    #contact-div li {
+        list-style: none;
+        text-align: center;
+    }
+    
+    .contact-details h3 {
+        font-size: 4vw;        
+    }
+    
+    .contact-details p {
+        font-size: 80%;
+        text-align: center;
+    }
+
+    #contact-list {
+        width: 80%;
+    }
+
+    #thankyou-section {
+        width: 100vw;
+        height: 200px;
+        margin-top: 30px;
+    }
+
+    #thankyou-section h1 {        
+        font-size: 6vw;        
+    }
+    
+    #thankyou-section h2 {        
+        font-size: 3.4vw;        
+    }
+    
+    #thankyou-section p {
+        font-size: 3vw;        
+    }
+
+}
