@@ -180,28 +180,17 @@ footer {
 
 /* courses page */
 
-#box {
+.box {
     min-width: 80vw;
     background-color: #e9edc9;
     text-align: center;
     border: 1px solid#D4A373;
     border-radius: 5px;
-   margin: 5%;
+    margin: 5%;
 }
-#box p {
+.box p {
     padding: 5px;
-}
-#courses {
-    width: 100%;
-    height: auto;
-}
-.courses {
-    width: 60%;
-    height: auto;
-    text-align: center;
-    margin: 0 auto;
-    padding-top: 1%;
-    padding-bottom: 3%;
+
 }
 
 #italian h2 {
@@ -211,18 +200,6 @@ footer {
     text-align: center;
 }
 #asian h2 {
-    text-transform: uppercase;
-    font-size: 1.8vw;
-    color: #D4A373;
-    text-align: center;
-}
-#italian h2 {
-    text-transform: uppercase;
-    font-size: 1.8vw;
-    color: #D4A373;
-    text-align: center;
-}
-#italian h2 {
     text-transform: uppercase;
     font-size: 1.8vw;
     color: #D4A373;

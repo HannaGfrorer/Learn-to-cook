@@ -145,7 +145,7 @@ In order to make navigation easier between the pages, the navigation bar is fixe
   - The images gives a strong self-confidence feeling.
   - The section also contains a header and a paragraph that gives the user a clear message of what the website is about.
 
-![Home Page Hero Header Section](images/happy%20cooking.webp)
+![Home Page Hero Header Section](images/cookingcourses.png)
 
 #### About Us Section
 
