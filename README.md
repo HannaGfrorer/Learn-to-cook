@@ -1,6 +1,6 @@
 # Learn how to cook online
 
-![Responsive screenshot]()
+![Responsive screenshot](images/side%20on%20different%20screens.png)
 
 
 This website was created for a fictional online cooking class. Learn to cook online is a site for men and women aged 20-60+ in Europe who want to learn how to cook. Learn to cook online offers simple courses that are video based, which means that you as a customer can always pause and rewind the video course to be able to understand the steps being performed. As long as you have access to a computer, mobile or tablet, you can access the course. The customer pays a one-time price and then has access to the course again and again.
@@ -36,16 +36,14 @@ A live version of the project is here - https://hannagfrorer.github.io/Learn-to-
     + [About Us Section](#about-us-section "About Us Section")
     + [Footer Section](#footer-section "Footer Section")
     + [Classes Hero Image Section](#classes-hero-image-section "Classes Hero Image Section")
-    + [About Classes section](#about-classes-section "About Course Section")
+    + [About Couors section](#about-classes-section "About Course Section")
     + [Contact Hero Image Section](#contact-hero-image-section "Contact Hero Image Section")
     + [Contact Form Section](#contact-form-section "Contact Form Section")
     + [Contact Detail Section](#contact-details-section "Contact Details Section")
-    + [Thankyoupage Hero Image Section](#thankyoupage-hero-image-section "Thankyoupage Hero Image Section")
     + [Tankyou Section](#thankyou-section "Thankyou Section")
 + [Technologies used](#technologies-used "Technologies used")
 + [Testing](#testing "Testing")
   + [Validator Testing](#validator-testing "Validator Testing")
-  + [Unfixed Bugs](#unfixed-bugs "Unfixed Bugs")
 + [Development and Deployment](#development-and-deployment "Development and Deployment")
 + [Content](#content "Content")
 + [Media](#media "Media")
@@ -239,24 +237,21 @@ Apart from these issues there have been several minor issues. The majority of th
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fangelicaguimaraes.github.io%2Fmagnolia_tree%2Findex.html)
+  - No errors were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhannagfrorer.github.io%2FLearn-to-cook%2Findex.html)
 
-![W3C HTML Validator](/assets/images/readme-images/screenshot-html-validator.png)
+![W3C HTML Validator](images/chekwalidator.png)
 
 - CSS
-  - No errors were returned when passing through the official [(Jigsaw validator)](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fangelicaguimaraes.github.io%2Fmagnolia_tree%2Findex.html&usermedium=all&vextwarning=&warning=1)
+  - No errors were returned when passing through the official [(Jigsaw validator)](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhannagfrorer.github.io%2FLearn-to-cook%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 
-![Jigsaw validator](/assets/images/readme-images/screenshot-css-validator.png)
+![Jigsaw validator](images/w3css.png)
 
 - Lighthouse testing
 
-![Lighthouse testing score](/assets/images/readme-images/screenshot-lighthouse-test-score.png)
+![Lighthouse testing score](images/lighthouse.png)
 
-### Unfixed Bugs
 
-- All the bugs were fixed and moved to the section Testing.
-
- [Back to top](#magnolia-tree-yoga-studio)
+ [Back to top](#Learn-how-to-cook-online)
 
 ## Development and Deployment
 
@@ -277,35 +272,32 @@ The live link can be found here - https://angelicaguimaraes.github.io/magnolia_t
 
 ## Content 
 
-- All text content on this site has been produced by the author of the project and is fictional. Individuals mentioned do not exist in real life and there is no Magnolia Tree.
-- The design of the project is inspired by Code Institutes ”Love Running” project. Code has been borrowed from that project, the Footer. It is commented in index.html and styles.css were the the borrowed code is applied. 
+- All text content on this site has been produced by the author of the project and is fictional. Individuals mentioned do not exist in real life and there is no Learn how to cook online site.
+- The design of the project is inspired by Code Institutes ”Love Running” project and Magnolia Tree Yoga Studio. Code has been borrowed from that project, the Footer. It is commented in index.html and styles.css were the the borrowed code is applied. 
 - The icons in the header, contact and registration and footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ## Media
 
-- All images were downloaded from [Pexels](https://www.pexels.com/).
+- All images were downloaded from [Rawpixe](https://www.rawpixel.com/) and [köket](https://www.koket.se/) and [Resept.se](https://recept.se/).
 
 ## Credits 
 
 ### For code inspiration, design inputs, help and advice. Many thanks to:
 
 Martina Terlevic
- - My awesome mentor at Code Institute: Thank you for your help during crisis!
+ - My awesome mentor at Code Institute: Thank you for your help.
  
- Mats Simonsson
- - Friend and Mentor: Thank you for all the time spent helping me, for your patience and support!
+ 
 
 ### Great sources
 
 Sites that have provided me with knowledge and information that has been vital to this project:
 
 - https://www.w3schools.com/
-- https://stackoverflow.com
-- https://www.developerdrive.com/
-- https://www.freecodecamp.org/
+- https://webdesignskolan.se/
 
 
-And all the content in HTML-Essentials, CSS-Essentials and the Walkthrough project ”Love Running” that has provided inspiration and knowledge.
+And all the content in HTML-Essentials, CSS-Essentials and the Walkthrough project ”Love Running” an  Magnolia Tree Yoga Studio that has provided inspiration and knowledge.
 
 Top screenshot in this ReadMe was made using:
 
@@ -313,4 +305,4 @@ http://ami.responsivedesign.is/
 
 Best regards
 
-[Back to top](#magnolia-tree-yoga-studio)
+[Back to top](#learn-how-to-cook-online)
