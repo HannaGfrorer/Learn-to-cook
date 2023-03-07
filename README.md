@@ -1,5 +1,4 @@
 
-Listed is the main issues discovered.
 
 This website was created for a fictional online cooking class. Learn to cook online is a site for men and women aged 20-60+ in Europe who want to learn how to cook. Learn to cook online offers simple courses that are video based, which means that you as a customer can always pause and rewind the video course to be able to understand the steps being performed. As long as you have access to a computer, mobile or tablet, you can access the course. The customer pays a one-time price and then has access to the course again and again.
 
@@ -13,100 +12,101 @@ Requirements for the project are that the website must be static and responsive 
 
 A live version of the project is here - https://hannagfrorer.github.io/Learn-to-cook/
 
-Table of Content
-UX
-User Demographic
-User Stories
-Existing Members
-New Users
-User Goals
-Requirements
-Design
-Colors
-Typography
-Images
-Features
-Existing Features
-Header With Logo and Navigation Bar Section
-Home Page Hero Image Section
-About Us Section
-About Yoga and Meditation Section
-Footer Section
-Classes Hero Image Section
-About Classes section
-Classes Time Table Section
-Contact Hero Image Section
-Contact Form Section
-Contact Detail Section
-Thankyoupage Hero Image Section
-Tankyou Section
-Technologies used
-Testing
-Validator Testing
-Unfixed Bugs
-Development and Deployment
-Content
-Media
-Credits
-UX
-User Demographic
-This website is ment for:
+*Table of Content
+*UX
+*User Demographic
+*User Stories
+*Existing Members
+*New Users
+*User Goals
+*Requirements
+*Design
+*Colors
+*Typography
+*Images
+*Features
+*Existing Features
+*Header With Logo and Navigation Bar Section
+*Home Page Hero Image Section
+*About Us Section
+*About Yoga and Meditation Section
+*Footer Section
+*Classes Hero Image Section
+*About Classes section
+*Classes Time Table Section
+*Contact Hero Image Section
+*Contact Form Section
+*Contact Detail Section
+*Thankyoupage Hero Image Section
+*Tankyou Section
+*Technologies used
+*Testing
+*Validator Testing
+*Unfixed Bugs
+*Development and Deployment
+*Content
+*Media
+*Credits
+*UX
+*User Demographic
+*This website is ment for:
 
-The target group is men and women aged 20-60+ in Europe.
-User Stories
-Existing Members
+#The target group is men and women aged 20-60+ in Europe.
+#User Stories
+#Existing Members
 As a customer, I want to see if there are new cooking classes to attend.
 As a customer, I want the material to be easily accessible
 As a customer, I want the course to be clear and affordable
-New Users
+#New Users
 As a new customer: I want to know what Learn to cook online has to offer me.
 As a new customer: I want to feel that the structure of the course is not too cumbersome.
 As a new customer: I want to be able to get in touch with Learn to Cook Online and clarify any questions I may have.
-User Goals
+#User Goals
 Find information about cooking courses
 Find information about different dishes
 Find information on how to get in touch with Learn to Cook Online.
 Send an inquiry to Learn to cook online via the contact form
 Buy a course to learn how to cook a dish
-Requirements
+#Requirements
 A static responsive website that incorporates the technologies I have learned so far that contains some advanced functionality. The development process needs to be well documented through a version controls system such as GitHub.
 
-Required technologies: HTML, CSS
+#Required technologies: HTML, CSS
 
-Design
+#Design
 Since this is my first HTML/CSS project, the design has been influenced by the ”Love Running” project and The Magnolia Tree website .
 
 My goal was to create a website that could bring the joy of cooking to users and the feeling of being able to learn something new, this by working with a balance between colors, images and functionality.
 
-Learn to Cook Online is a three-page website divided into sections. The menu is fixed at the top to ensure easy navigation between pages.
+#Learn to Cook Online is a three-page website divided into sections. The menu is fixed at the top to ensure easy navigation between pages.
 
-Colors
-The color palette was created with Coolor #FFF8DC, D2691E, #ffffff, #580e0e, #474646, af8e38;,64545, D4A37
-
+#Colors
+The color palette was created with Coolor 
 Color Palette
+![colors](images/colors.png)"colors"
 
-Typography
-The Google Font Montserrat was chosen as the main font with a fallback of Sans-Serif. Font weights of 300, 500 and 800 have been used on the website.
+#Typography
+The Google Font Fira+Sans was chosen as the main font with a fallback of Sans-Serif. Font weights of 300, 500 and 800 have been used on the website.
 
-Images
+#Images
 Images have been chosen in accordance to color and content. The purpose of the website is to give a calm look and express quality. Images have been sized in order to match design.
+![colors](images/cooking..webp)"cooking"![colors](images/happy%20cooking.webp)"happycooking"![colors](images/ingredienser.webp)"ingredienser"
 
-Back to top
+*Back to top
 
-Features
+#Features
 The Learn to Cook Online website is a three-page website plus a Thank You Page that consists of the following sections:
 
-Header (Logo/Navigation Bar)
-Home Page Hero Image
-About Us
-Footer
-Classes Hero Image
-Contact Hero Image
-Contact Form
-Contact Details
-Thankyoupage Hero Image
-Thankyou Section
-In order to make navigation easier between the pages, the navigation bar is fixed on top when the user scrolls up an down.
+#Header (Logo/Navigation Bar)
+#Home Page Hero Image
+#About Us
+#Footer
+#Classes Hero Image
+#Contact Hero Image
+#Contact Form
+#Contact Details
+#Thankyoupage Hero Image
+#Thankyou Section
+#In order to make navigation easier between the pages, the navigation bar is fixed on top when the user scrolls up an down.
 
 Existing Features
 Header With Logo and Navigation Bar Section
