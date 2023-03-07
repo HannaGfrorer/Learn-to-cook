@@ -79,15 +79,15 @@ header {
 
 #menu a {
     text-decoration: none;
-    color: #af8e38;
+    color: #D4A373;
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #af8e38;
+    border-bottom: 1px solid #FAEDCD;
 }
 
 .active {
-    border-bottom: 1px solid #af8e38;
+    border-bottom: 1px solid #FAEDCD;
 }
 
 /* hero image section */
@@ -181,7 +181,7 @@ footer {
 /* courses page */
 
 #box {
-    background-color: #FFF8DC;
+    background-color: #e9edc9;
     width: 1250px;
     padding: 10px;
    
@@ -203,25 +203,25 @@ footer {
 #italian h2 {
     text-transform: uppercase;
     font-size: 1.8vw;
-    color: #D1AA91;
+    color: #D4A373;
     text-align: center;
 }
 #asian h2 {
     text-transform: uppercase;
     font-size: 1.8vw;
-    color: #D1AA91;
+    color: #D4A373;
     text-align: center;
 }
 #italian h2 {
     text-transform: uppercase;
     font-size: 1.8vw;
-    color: #D1AA91;
+    color: #D4A373;
     text-align: center;
 }
 #italian h2 {
     text-transform: uppercase;
     font-size: 1.8vw;
-    color: #D1AA91;
+    color: #D4A373;
     text-align: center;
 }
 
@@ -286,7 +286,7 @@ footer {
     width: 100%;
     height: 150px;
     text-align: center;
-    background-color: #FFF8DC;
+    background-color: #FAEDCD;
 }
 /* contact page */
 
@@ -340,7 +340,7 @@ footer {
 }
 
 #contact-form {
-    background-color: #FFFACD;
+    background-color: #Faedcd;
     text-align: left;
     padding: 10px 50px 20px 50px;
     width: 30%;
@@ -371,10 +371,10 @@ footer {
 }
 
 .send-button {
-    color: #580e0e;
+    color: #ccd5ae;
     text-align: center;
     font-size: 100%;
-    background-color: #e59e3a;
+    background-color: #e9edc9;
     border-radius: 2px;
     margin-top: 20px;
     padding: 10px;
@@ -397,12 +397,12 @@ footer {
     width: 100%;
     text-align: center;
     margin-top: 50px;
-    background-color: #FFF8DC;
+    background-color: #Faedcd;
     padding-top: 20px;
 }
 
 #contact-wrapper {
-    background-color: #FFF8DC;
+    background-color: #Faedcd;
     text-align: center;
     padding: 30px 50px 30px 50px;
 }
@@ -594,13 +594,13 @@ footer {
         text-transform: uppercase;
         text-align: center;
         font-size: 6vw;
-        color: #D1AA91;
+        color: #Faedcd;
     }
     
     #thankyou-section h2 {
         text-transform: uppercase;
         font-size: 3.4vw;
-        color: #D1AA91;
+        color: #Faedcd;
         text-align: center;
         margin-top: 10px;
     }
@@ -759,7 +759,7 @@ footer {
     }
     
     .send-button:hover {
-        color: rgb(148, 170, 211);
+        color: #D4A373;
         background-color: #ffffff;
     }
     
