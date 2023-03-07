@@ -116,13 +116,13 @@ header {
 
 #hero-image-text h1 {
     font-size: 3.4vw;
-    color: #0d0d0c;
+    color: #464545;
 }
 
 #hero-image-text h3 {
     font-size: 1vw;
     margin-top: auto;
-    color: #1d1d1d;
+    color: #464545;
 }
 
 /* About Us */
@@ -144,7 +144,7 @@ header {
 #about-us h2 {
     text-transform: uppercase;
     font-size: 1.8vw;
-    color: #D1AA91;
+    color: #D4A373;
     text-align: center;
 }
 
