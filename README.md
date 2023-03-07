@@ -135,7 +135,7 @@ In order to make navigation easier between the pages, the navigation bar is fixe
   - Featured on all four pages, the navigation bar includes links to the Home page, Classes page and Contact page and is identical in each page to allow for easy navigation.
   - The Header is at a fixed position on top and follows the user as the user scrolls down the page.
 
-![Header and navigation](images/panel.png)
+![Header and navigation](images/border.png)
 
 #### Home Page Hero Image Section
 
@@ -159,7 +159,7 @@ In order to make navigation easier between the pages, the navigation bar is fixe
   - The purpose of this section is to give the user information about which cuisines and dishes you can learn to cook.
   - Each dish has an image that shows the dish that can be prepared, giving the user a sense of curiosity and knowledge.
 
-![About cooking courses Section](images/cookingcourses.png)
+![About cooking courses Section](images/cookingcourses1.png)
 
 #### Footer Section
 
@@ -295,6 +295,7 @@ Sites that have provided me with knowledge and information that has been vital t
 
 - https://www.w3schools.com/
 - https://webdesignskolan.se/
+- https://stackoverflow.com/
 
 
 And all the content in HTML-Essentials, CSS-Essentials and the Walkthrough project ”Love Running” an  Magnolia Tree Yoga Studio that has provided inspiration and knowledge.
