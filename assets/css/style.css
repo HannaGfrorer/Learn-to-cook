@@ -83,7 +83,7 @@ header {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #FAEDCD;
+    border-bottom: 1px solid #464545;
 }
 
 .active {
@@ -397,6 +397,10 @@ footer {
 
 /* contact details section */
 
+#contact-list {
+    text-align: center;
+}
+
 #details-div {
     width: 100%;
     text-align: center;
@@ -407,7 +411,7 @@ footer {
 
 #contact-wrapper {
     background-color: #Faedcd;
-    text-align: center;
+    text-align: -webkit-center;
     padding: 30px 50px 30px 50px;
 }
 
@@ -427,6 +431,7 @@ footer {
 .contact-details h3 {
     color: #11100f;
     text-decoration: underline;
+    text-align: center;
     margin-bottom: 3px;
     margin-top: 10px;
 }
@@ -445,7 +450,7 @@ footer {
 }
 
 #thankyou-hero-image {
-    max-width: 100%;
+    width: 100vw;
     height: auto;
     position: relative;
 }
@@ -488,7 +493,7 @@ footer {
 
 /* media queries */
 
-@media screen and (min-width: 480px) and (max-width: 920px) {
+@media screen and (min-width: 480px) and (max-width: 1000px) {
 
     #menu li {
         font-size: 2vw;

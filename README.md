@@ -42,6 +42,7 @@ A live version of the project is here - https://hannagfrorer.github.io/Learn-to-
     + [Contact Detail Section](#contact-details-section "Contact Details Section")
     + [Tankyou Section](#thankyou-section "Thankyou Section")
 + [Technologies used](#technologies-used "Technologies used")
++ [Unfixed Bugs](#unfixed-bugs "Unfixed bugs")
 + [Testing](#testing "Testing")
   + [Validator Testing](#validator-testing "Validator Testing")
 + [Development and Deployment](#development-and-deployment "Development and Deployment")
@@ -212,6 +213,10 @@ In order to make navigation easier between the pages, the navigation bar is fixe
 - [HTML](https://en.wikipedia.org/wiki/HTML)
 - [CSS](https://en.wikipedia.org/wiki/CSS)
 
+## Unfixed bugs
+
+- All the bugs were fixed and moved to the section Testing.
+
 ## Testing 
 
 Test has been conducted using Google Chrome, Mozilla Firefox and Safari. Testing different devices and screen resolutions has been conducted using Google DevTools.
@@ -221,17 +226,12 @@ Listed is the main issues discovered.
 1. The CSS file did not work with the index.html file, no style ended up on the page
  - Solution: moved the css file to the assets folder and then it works
 2. Hero-Image were not taking 100% of the screen's width.
- - Solution: Resized the images to a larger size.
-3. 
-4. When tested in Lighthouse the website received a low score on performance, 73. The reason for thas was that the images size were too big.
- - Solution: Resized all the images and score increased to 99.
-5. Poor performance on smaller screens. About Us and 2022 Events sections did not place them selfs properly.
- - Solution: Solved this by using media queries and now the elements are displayed as they should.
-6. Menu not properly aligned with header on small screens and it gets cropped and divided.
+ - Solution: Added new values in the existing media queries
+3. The page didn't cover all the way to the edge on screens that were 1920x1080
+ - Solution: Resized the
+4.  Menu not properly aligned with header on small screens and it gets cropped and divided.
  - Solution: Added new values in the existing media queries.
-7. Menu still gets cropped on screens with resolutions below 320px. It looks good using Google DevTools but not on a physical device
- - Solution: Solved 20220325 - Removed from Unfixed bugs. Changed View Port Width on fonts in menu.
-
+ 
 Apart from these issues there have been several minor issues. The majority of these has been due to miss spelled tags, attributes and other mistakes. 
 
 ### Validator Testing 
@@ -268,7 +268,7 @@ The procedure for deployment followed the "Creating your site" steps provided in
 5. At the ”Source” section choose ”main” as Branch and root as folder and click ”Save”
 6. The website will deploy and the pages refreshes to provide the live link to the project.
 
-The live link can be found here - https://angelicaguimaraes.github.io/magnolia_tree/
+The live link can be found here - https://hannagfrorer.github.io/Learn-to-cook/
 
 ## Content 
 
