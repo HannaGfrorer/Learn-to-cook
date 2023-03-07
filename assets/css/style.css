@@ -181,12 +181,16 @@ footer {
 /* courses page */
 
 #box {
+    min-width: 80vw;
     background-color: #e9edc9;
-    width: 1250px;
-    padding: 10px;
-   
+    text-align: center;
+    border: 1px solid#D4A373;
+    border-radius: 5px;
+   margin: 5%;
 }
-
+#box p {
+    padding: 5px;
+}
 #courses {
     width: 100%;
     height: auto;
