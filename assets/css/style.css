@@ -284,6 +284,12 @@ footer {
     height: auto;
 }
 
+
+#hero-image-text h1 {
+    font-size: 1.4vw;
+    color: rgb(13, 13, 13);
+}
+
 /* contact form section */
 
 #contact-form-section {
