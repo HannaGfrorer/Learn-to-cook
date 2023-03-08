@@ -144,16 +144,16 @@ In order to make navigation easier between the pages, the navigation bar is fixe
 #### Home Page Hero Image Section
 
   - The Home Page Hero Image Section contains a hero image, header and a paragraph.
-  - The section was built to give the user a welcome sensation and transmit the user our peaceful atmosphere.
-  - The images gives a strong self-confidence feeling.
+  - The section was built to give the user a welcome feeling and convey our knowledge to the user.
+  - The pictures give a feeling of knowledge and joy.
   - The section also contains a header and a paragraph that gives the user a clear message of what the website is about.
 
 ![Home Page Hero Header Section](assets/images/cooking..webp)
 
 #### About Us Section
 
-  - In the About Us Sections the user will find out about the type of yoga the Studio teaches, whom the Studio build the classes for, and what users can expect when joining one of the classes or meditation groups. 
-  - The purpose of the About Us section is to give users a feel of what Magnolia Tree is and it's mission.
+  - In the About Us sections, the user will find out what type of cooking courses the website offers, who the courses are for and what the customer can expect when they buy one of the website's courses
+    - The purpose of the About Us section is to give users a sense of what Learn to Cook Online is and its mission.
 
 ![About Us Section](assets/images/about%20us.png)
 
@@ -167,7 +167,7 @@ In order to make navigation easier between the pages, the navigation bar is fixe
 
 #### Footer Section
 
-  - The Footer contains three social media links (Facebook and Instagram). 
+  - The Footer contains two social media links (Facebook and Instagram). 
   - The purpose of the Footer is to provide easy access for the user to the different social media platforms were Learn how to cook online has a presence.
 
 ![Footer](assets/images/footer.png)
@@ -209,7 +209,7 @@ In order to make navigation easier between the pages, the navigation bar is fixe
 ![Thankyou Section](assets/images/thankyou.png)
 
 
-[Back to top](#Learn how to cook online)
+[Back to top](Learn how to cook online)
 
 ## Technologies used
 
@@ -231,7 +231,7 @@ Listed is the main issues discovered.
 2. Hero-Image were not taking 100% of the screen's width.
  - Solution: Added new values in the existing media queries
 3. The page didn't cover all the way to the edge on screens that were 1920x1080
- - Solution: Resized the
+ - Solution: Added new values in the existing media queries.
 4.  Menu not properly aligned with header on small screens and it gets cropped and divided.
  - Solution: Added new values in the existing media queries.
  
