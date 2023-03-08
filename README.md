@@ -1,6 +1,6 @@
 # Learn how to cook online
 
-![Responsive screenshot](images/side%20on%20different%20screens.png)
+![Responsive screenshot](assets/images/side%20on%20different%20screens.png)
 
 
 This website was created for a fictional online cooking class. Learn to cook online is a site for men and women aged 20-60+ in Europe who want to learn how to cook. Learn to cook online offers simple courses that are video based, which means that you as a customer can always pause and rewind the video course to be able to understand the steps being performed. As long as you have access to a computer, mobile or tablet, you can access the course. The customer pays a one-time price and then has access to the course again and again.
@@ -100,7 +100,7 @@ Learn to Cook Online is a three-page website divided into sections. The menu is 
 
 The color palette was created using [Coolors](https://coolors.co/).
 
-![colors](images/colors.png)"colors"
+![colors](assets/images/colors.png)"colors"
 
 #### Typography
 
@@ -109,7 +109,10 @@ The [Google Font Fira+Sans](https://fonts.google.com/specimen/Work+Sans#styles) 
 #### Images
 
 Images have been chosen in accordance to color and content. The purpose of the website is to give a calm look and express quality. Images have been sized in order to match design.
-![colors](images/cooking..webp)"cooking"![colors](images/happy%20cooking.webp)"happycooking"![colors](images/ingredienser.webp)"ingredienser"
+
+![colors](assets/images/cooking..webp)"cooking"
+![colors](assets/images/onion.webp)"happycooking"
+![colors](assets/images/ingredienser.webp)"ingredienser"
 
 ## Features 
 
@@ -136,7 +139,7 @@ In order to make navigation easier between the pages, the navigation bar is fixe
   - Featured on all four pages, the navigation bar includes links to the Home page, Classes page and Contact page and is identical in each page to allow for easy navigation.
   - The Header is at a fixed position on top and follows the user as the user scrolls down the page.
 
-![Header and navigation](images/border.png)
+![Header and navigation](assets/images/panel.png)
 
 #### Home Page Hero Image Section
 
@@ -145,14 +148,14 @@ In order to make navigation easier between the pages, the navigation bar is fixe
   - The images gives a strong self-confidence feeling.
   - The section also contains a header and a paragraph that gives the user a clear message of what the website is about.
 
-![Home Page Hero Header Section](images/cookingcourses.png)
+![Home Page Hero Header Section](assets/images/cooking..webp)
 
 #### About Us Section
 
   - In the About Us Sections the user will find out about the type of yoga the Studio teaches, whom the Studio build the classes for, and what users can expect when joining one of the classes or meditation groups. 
   - The purpose of the About Us section is to give users a feel of what Magnolia Tree is and it's mission.
 
-![About Us Section](images/about%20us.png)
+![About Us Section](assets/images/about%20us.png)
 
 #### cooking courses section
 
@@ -160,27 +163,27 @@ In order to make navigation easier between the pages, the navigation bar is fixe
   - The purpose of this section is to give the user information about which cuisines and dishes you can learn to cook.
   - Each dish has an image that shows the dish that can be prepared, giving the user a sense of curiosity and knowledge.
 
-![About cooking courses Section](images/cookingcourses1.png)
+![About cooking courses Section](assets/images/cookingcourses1.png)
 
 #### Footer Section
 
   - The Footer contains three social media links (Facebook and Instagram). 
   - The purpose of the Footer is to provide easy access for the user to the different social media platforms were Learn how to cook online has a presence.
 
-![Footer](images/footer.png)
+![Footer](assets/images/footer.png)
 
 #### Cooking courses Hero Image Section
 
   - The section contains an image of a person chopping onions to give the user a sense of knowledge.
 
-![Cooking courses Hero Image Section](images/onion.webp)
+![Cooking courses Hero Image Section](assets/images/onion.webp)
 
 
 #### Contact Hero Image Section
 
   - This section was built to give the user a welcoming feeling and to encourage them to get in contact with the website.
 
-![Contact Hero Image Section](images/ingredienser.webp)
+![Contact Hero Image Section](assets/images/ingredienser.webp)
 
 #### Contact Form Section
 
@@ -189,21 +192,21 @@ In order to make navigation easier between the pages, the navigation bar is fixe
   - Users must also chose, at least one of the options, telling what they are interested to cook.
   - After sending the request wiht the correct information required in the fields, users will be redirected to a Thank you page.
 
-![Contact Form Section](images/contactform.png)
+![Contact Form Section](assets/images/contactform.png)
 
 #### Contact Details Section
 
   - The Contact Details Section contains one box with all the contact information of Learn how to cook online.
   - The box contains the telephone number and email
   
-![Contact Details Section](images/contaktdetals.png)
+![Contact Details Section](assets/images/contactd.png)
 
 
 #### Thankyou Section
 
 - This section is where the user receives the confirmation that the form has been sent correctly and that it has been received by the Studio.
 
-![Thankyou Section](images/thankyou.png)
+![Thankyou Section](assets/images/thankyou.png)
 
 
 [Back to top](#Learn how to cook online)
@@ -239,16 +242,19 @@ Apart from these issues there have been several minor issues. The majority of th
 - HTML
   - No errors were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhannagfrorer.github.io%2FLearn-to-cook%2Findex.html)
 
-![W3C HTML Validator](images/chekwalidator.png)
+![W3C HTML Validator](assets/images/htmlsignup.png)
+![W3C HTML Validator](assets/images/chekwalidator.png)
+![W3C HTML Validator](assets/images/htmlthankyou.png)
+![W3C HTML Validator](assets/images/cookincorses.png)
 
 - CSS
   - No errors were returned when passing through the official [(Jigsaw validator)](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhannagfrorer.github.io%2FLearn-to-cook%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 
-![Jigsaw validator](images/w3css.png)
+![Jigsaw validator](assets/images/w3cssny.png)
 
 - Lighthouse testing
 
-![Lighthouse testing score](images/lighthouse.png)
+![Lighthouse testing score](assets/images/lighthouse.png)
 
 
  [Back to top](#Learn-how-to-cook-online)
